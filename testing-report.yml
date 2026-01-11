@@ -1,12 +1,12 @@
 ---
 - summary: |
     Успешный поиск товаров по ключевому слову "Kiwi"
-  status: fail
+  status: pass
 
 - summary: |
     Отображение товаров только выбранной категории "beauty"
-  status: fail
+  status: pass
 
 - summary: |
     Отображение каталога товаров с основными атрибутами на главной странице
-  status: fail
+  status: pass
