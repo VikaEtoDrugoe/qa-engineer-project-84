@@ -13,24 +13,24 @@
 
 - summary: |
     Успешное добавление товара в корзину из каталога
-    status: pass
+  status: pass
 
 - summary: |
     Успешное удаление товара из корзины
-    status: pass
+  status: pass
 
 - summary: |
     Успешное переключение языка интерфейса с английского на русский
-    status: fail
+  status: fail
 
 - summary: |
     Сохранение корзины при переходе между страницами (SPA-поведение)
-    status: pass
+  status: pass
 
 - summary: |
     Успешное продолжение выбора товаров из корзины
-    status: pass
+  status: pass
 
 - summary: |
     Корректное отображение сайта на мобильном устройстве
-    status: pass
+  status: pass
